@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">, I am Sahil Kalyani!
 
-I am presently working as a React Native Developer LTI, Hyderabad. I am highly inclined towards developing web and mobile applications to solve real-life problems. A hardcore fan of Javascript, and a few of its frameworks like React JS and React Native. Currently I am exploring the world of Blockchain and it's innumerable use cases.
+I am presently working as a Front-End Engineer @ Amazon. I am highly inclined towards developing web and mobile applications to solve real-life problems. A hardcore fan of Javascript, and a few of its frameworks like React JS and React Native. Currently I am exploring the world of Blockchain and it's innumerable use cases.
 
 Apart from programming, I also take an active interest in playing the Piano, Table Tennis and public speaking.
 
